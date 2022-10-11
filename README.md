@@ -16,7 +16,7 @@
 ### :man_technologist: About Me :
 I am a Computer Engineer from Turkey.
 
-- :telescope: I’m working as a Cyber Security Intern and developing a backend and mobile application for the rest of my time.
+- :telescope: I’m working on my own projects (:axe: &hack ;) and developing a backend and mobile application for the rest of my time.
 
 - :email: You can send me an email in here: **mehmetcakmaktasi@yaani.com**
 
