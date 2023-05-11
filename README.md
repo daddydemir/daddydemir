@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/mehmet-01100011-/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"></a>
+<a href="http://2.59.117.205:17895/redirect?url=https://www.linkedin.com/in/mehmet-01100011-/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"></a>
 </p>
 
 
@@ -18,7 +18,7 @@ I am a Computer Engineer from Turkey.
 
 - :telescope: I’m working on my own projects (:axe: &hack ;) and developing a backend and mobile application for the rest of my time.
 
-- :email: You can send me an email in here: **mehmetcakmaktasi@yaani.com**
+- :email: You can send me an email in here: <a href="http://2.59.117.205:17895/redirect?url=mailto:mehmetcakmaktasi@yaani.com"> MAIL </a>
 
 - :computer: I hack machines and it's very enjoyable [![Linkedin Badge](https://img.shields.io/badge/TryHackMe-black?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/demironW47)
 
