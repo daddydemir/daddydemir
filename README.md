@@ -46,6 +46,8 @@ I am a Computer Engineer from Turkey.
       <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg" width="40" height="40" /> &nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" /> &nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" height="40" /> &nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="40" height="40" > &nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="40" height="40"/>&nbsp;
   </div>
   <div>
